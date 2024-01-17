@@ -6,9 +6,9 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 Project to put into practice the use of Spring Boot and Angular technologies, where a product management system was implemented, developed with Java and Spring Boot as back end and Angular and Boostrap as front end and on the database side. mysql
 
-## Development server
+## Deploy
 
-Run `ng serve` for a dev server. Navigate to `https://inventario-app-tau.vercel.app`. The application will automatically reload if you change any of the source files.
+URL: `https://inventario-app-tau.vercel.app`.
 
 ## Code scaffolding
 
