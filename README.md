@@ -4,7 +4,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Description
 
-Project to put into practice the use of Spring Boot and Angular technologies, where a product management system was implemented, developed with Java and Spring Boot as back end and Angular and Boostrap as front end and on the database side mysql
+Project to put into practice the use of Spring Boot and Angular technologies, where a product management system was implemented, developed with Java and Spring Boot as back end and Angular and Boostrap as front end and on the database side MySQL.
 
 ## Deploy
 
